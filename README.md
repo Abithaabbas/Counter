@@ -23,11 +23,11 @@ You only need a web browser (e.g., Chrome, Firefox) to run the project.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abithaabbas/counter.git
+   git clone https://github.com/Abithaabbas/Counter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd counter-app
+   cd Counter
    ```
 3. Open the `index.html` file in your browser to see the app in action.
 
