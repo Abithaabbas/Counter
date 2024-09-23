@@ -39,3 +39,5 @@ You only need a web browser (e.g., Chrome, Firefox) to run the project.
 - Option to delete previous entries.
 - Option to reset the counter value.
 
+- Link - https://abithaabbas.github.io/Counter/
+
